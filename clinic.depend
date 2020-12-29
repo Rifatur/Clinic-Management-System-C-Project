@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1541862989 source:f:\clinic\main.cpp
+	"pro.h"
+	<bits/stdc++.h>
+
+1541914118 f:\clinic\pro.h
+	<bits/stdc++.h>
+
+1541911998 source:f:\clinic\pro.cpp
+	"pro.h"
+	"functions.h"
+	<bits/stdc++.h>
+
+1541856573 source:f:\clinic\admin.cpp
+	"admin.h"
+	<bits/stdc++.h>
+
+1541856604 f:\clinic\admin.h
+	<bits/stdc++.h>
+
+1541914981 f:\clinic\functions.h
+	<bits/stdc++.h>
+	"appointment.h"
+
+1541913864 f:\clinic\appointment.h
+	<bits/stdc++.h>
+
